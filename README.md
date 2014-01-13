@@ -1,0 +1,2 @@
+general makefile in linux
+
